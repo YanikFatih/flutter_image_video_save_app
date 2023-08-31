@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376235149960",
+    "project_id": "image-video-voice-app",
+    "storage_bucket": "image-video-voice-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376235149960:android:00cd09191dad63606b6d3d",
+        "android_client_info": {
+          "package_name": "com.idenfit_image_video_app.image_video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376235149960-vlfsiuvck7c1rkr20imbi65nq3skl613.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-rkqsM8x4c3m8rcfQqDzww_1QFF1sD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376235149960-vlfsiuvck7c1rkr20imbi65nq3skl613.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
